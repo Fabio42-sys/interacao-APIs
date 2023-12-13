@@ -1,0 +1,60 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Retrovisor"
+    },
+    {
+      "id": 2,
+      "nome": "Calota"
+    },
+    {
+      "id": 3,
+      "name": "Retrovisor",
+      "tipo": "Segurança"
+    }
+  ],
+  "clientes": [
+    {
+      "id": 1,
+      "username": "Emmet",
+      "senha": "123456"
+    },
+    {
+      "username": "Fabio",
+      "senha": "678901",
+      "id": 3
+    },
+    {
+      "username": "trash",
+      "senha": "234567",
+      "id": 4
+    },
+    {
+      "username": "Brenda",
+      "senha": "234567",
+      "id": 5
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2,
+      "descricao": "basico"
+    },
+    {
+      "id": 34,
+      "descricao": "Inrermediário"
+    },
+    {
+        "id": 35,
+        "descricao": "Avançado"
+    }
+  ],
+  "carrinhos": {
+    "id": 1,
+    "data": "2023-12-13"
+  }
+}
