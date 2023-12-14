@@ -2,16 +2,33 @@
   "produtos": [
     {
       "id": 1,
-      "nome": "Retrovisor"
+      "nome": "Retrovisor",
+      "tipo": "Essencial"
     },
     {
       "id": 2,
-      "nome": "Calota"
+      "nome": "Calota",
+      "tipo": "Carroceria"
     },
     {
       "id": 3,
       "name": "Retrovisor",
       "tipo": "Segurança"
+    },
+    {
+      "id": 4,
+      "nome": "Pastilha de Freio",
+      "tipo": "Essencial"
+    },
+    {
+      "id": 5,
+      "nome": "Airbag",
+      "tipo": "Essencial"
+    },
+    {
+      "id": 6,
+      "nome": "Cambio",
+      "tipo": "Controle"
     }
   ],
   "clientes": [
@@ -49,8 +66,8 @@
       "descricao": "Inrermediário"
     },
     {
-        "id": 35,
-        "descricao": "Avançado"
+      "id": 35,
+      "descricao": "Avançado"
     }
   ],
   "carrinhos": {
