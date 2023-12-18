@@ -24,11 +24,6 @@
       "id": 5,
       "nome": "Airbag",
       "tipo": "Essencial"
-    },
-    {
-      "id": 6,
-      "nome": "Cambio",
-      "tipo": "Controle"
     }
   ],
   "clientes": [
